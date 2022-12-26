@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Rubiks-Cube/static/css/main.516e3842.css",
+    "main.js": "/Rubiks-Cube/static/js/main.d48125fe.js",
+    "static/js/496.75ddf1cd.chunk.js": "/Rubiks-Cube/static/js/496.75ddf1cd.chunk.js",
+    "index.html": "/Rubiks-Cube/index.html",
+    "main.516e3842.css.map": "/Rubiks-Cube/static/css/main.516e3842.css.map",
+    "main.d48125fe.js.map": "/Rubiks-Cube/static/js/main.d48125fe.js.map",
+    "496.75ddf1cd.chunk.js.map": "/Rubiks-Cube/static/js/496.75ddf1cd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.516e3842.css",
+    "static/js/main.d48125fe.js"
+  ]
+}
