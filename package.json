@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "author": "Amirali Askari",
-  "homepage": "https://AmirAshvins.github.io/Rubiks-Cube",
+  "homepage": "https://AmirAshvins.github.io/rubiks-cube",
   "email": "askariamirali99@gmail.com",
   "dependencies": {
     "@tweenjs/tween.js": "^18.6.4",
